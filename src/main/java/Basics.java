@@ -45,12 +45,12 @@ public class Basics {
          */
 
         System.out.println("Hello World!");
-
+        String str = new String("newString");
         /* 4. In Python, we could declare variables using a simple assignment
          *    statement. For example:
          *        x = 10
          *    In Java, we have to specify the variable's type as well:
-         *        int x = 10;
+         *        int x = 10; 
          *    We can also create variables without assigning a value to them
          *    for future use:
          *        int x;
